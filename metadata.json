@@ -1,0 +1,5 @@
+{
+  "name": "AI Scam Checker",
+  "description": "Analyseer links en teksten op mogelijke oplichting met AI.",
+  "requestFramePermissions": []
+}
